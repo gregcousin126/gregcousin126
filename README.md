@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **microservice architectures**
 
-- 🌱 I’m currently learning **Spring!**
+- 🌱 I’m currently learning **spring!**
 
 - 👯 I am looking to collaborate **any revolutionary ideas to better the quality of people's lives**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [gregcousin.com](gregcousin.com)
 
-- ⚡ Fun fact **Big fan of the outdoors**
+- ⚡ Fun fact **a big fan of the outdoors**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregcousin126&show_icons=true&locale=en" alt="gregcousin126" /></p>
