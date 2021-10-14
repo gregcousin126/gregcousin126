@@ -63,10 +63,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregcousin126&show_icons=true&locale=en&layout=compact" alt="gregcousin126" /></p>
 
-<br><br>
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gregcousin126&" alt="gregcousin126" /></p>
