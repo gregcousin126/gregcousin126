@@ -11,15 +11,9 @@
 
 - 🤝 I’m looking for help with **a project based on an e-commerce website to help local artisans**
 
-- 👨‍💻 All of my projects are available on [http://gregcousin.com/](http://gregcousin.com/)
-
-- 📝 I regularly write articles on [http://gregcousin.com/](http://gregcousin.com/)
-
 - 💬 Ask me about **vue, react, angular**
 
 - 📫 How to reach me **mail, messenger, whatsapp, github, twitter and more!**
-
-- 📄 Know about my experiences [http://gregcousin.com/](http://gregcousin.com/)
 
 - ⚡ Fun fact **a big fan of the outdoors**
 
