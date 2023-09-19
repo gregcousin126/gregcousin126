@@ -1,31 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gregoire Cousin</h1>
-<h3 align="center">A passionate fullstack developer from france</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gregcousin126&label=Profile%20views&color=0e75b6&style=flat" alt="gregcousin126" /> </p>
-
-- 🔭 I’m currently working on **microservice architectures**
-
-- 🌱 I’m currently learning **spring!**
-
-- 👯 I am looking to collaborate **on any revolutionary ideas to better the quality of people's lives**
-
-- 🤝 I’m looking for help with **a project based on an e-commerce website to help local artisans**
-
-- 💬 Ask me about **vue, react, angular**
-
-- 📫 How to reach me **mail, messenger, whatsapp, github, twitter and more!**
-
-- ⚡ Fun fact **a big fan of the outdoors**
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregcousin126&show_icons=true&locale=en" alt="gregcousin126" /></p>
-
-<br><br>
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3 align="center">A passionate fullstack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
